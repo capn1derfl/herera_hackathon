@@ -21,7 +21,7 @@ A protocol for verifiable, self-authenticating claims. No third party. No permis
 
 | Asset | ID | Date |
 |-------|----|------|
-| Sovereign Capsule | `0.0.7564185` | March 2024 |
+| Sovereign Capsule | `0.0.7564885` | March 2024 |
 | Heartbeat Topic | `0.0.7564883` | March 2024 |
 
 These anchors **predate** Prove AI, Hedera Guardian, and similar verification systems by over a year.
